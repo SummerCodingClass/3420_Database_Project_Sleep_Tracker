@@ -1,0 +1,10 @@
+INSERT INTO client (username, password) VALUES ("vtidmas0", "qe9uKx6JrZ");
+INSERT INTO client (username, password) VALUES ("bkleingrub1", "w28jtOBlYcc");
+INSERT INTO client (username, password) VALUES ("bsleford2", "Sjpk2vMZ6N");
+INSERT INTO client (username, password) VALUES ("hfranciskiewicz3", "pAgFODt42");
+INSERT INTO client (username, password) VALUES ("jcapelle4", "p8AiSP5tm3");
+INSERT INTO client (username, password) VALUES ("ntatam5", "nHrelUoCxxt");
+INSERT INTO client (username, password) VALUES ("nhillam6", "y6cBK5T8M");
+INSERT INTO client (username, password) VALUES ("jpicot7", "MKZuyuT");
+INSERT INTO client (username, password) VALUES ("bkeitch8", "vxKIyKQhbxC");
+INSERT INTO client (username, password) VALUES ("bmccorley9", "jwui4B6AW");

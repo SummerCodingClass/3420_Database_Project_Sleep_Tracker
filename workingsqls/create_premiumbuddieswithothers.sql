@@ -1,0 +1,16 @@
+INSERT INTO premiumbuddieswithothers (premusername, username) VALUES ("bsleford2", "bkeitch8");
+INSERT INTO premiumbuddieswithothers (premusername, username) VALUES ("bsleford2", "bmccorley9");
+INSERT INTO premiumbuddieswithothers (premusername, username) VALUES ("bsleford2", "nhillam6");
+INSERT INTO premiumbuddieswithothers (premusername, username) VALUES ("hfranciskiewicz3", "bkeitch8");
+INSERT INTO premiumbuddieswithothers (premusername, username) VALUES ("hfranciskiewicz3", "jpicot7");
+INSERT INTO premiumbuddieswithothers (premusername, username) VALUES ("hfranciskiewicz3", "vtidmas0");
+INSERT INTO premiumbuddieswithothers (premusername, username) VALUES ("jcapelle4", "vtidmas0");
+INSERT INTO premiumbuddieswithothers (premusername, username) VALUES ("vtidmas0", "bkleingrub1");
+INSERT INTO premiumbuddieswithothers (premusername, username) VALUES ("vtidmas0", "bsleford2");
+INSERT INTO premiumbuddieswithothers (premusername, username) VALUES ("vtidmas0", "hfranciskiewicz3");
+INSERT INTO premiumbuddieswithothers (premusername, username) VALUES ("vtidmas0", "jcapelle4");
+INSERT INTO premiumbuddieswithothers (premusername, username) VALUES ("vtidmas0", "ntatam5");
+INSERT INTO premiumbuddieswithothers (premusername, username) VALUES ("vtidmas0", "nhillam6");
+INSERT INTO premiumbuddieswithothers (premusername, username) VALUES ("vtidmas0", "jpicot7");
+INSERT INTO premiumbuddieswithothers (premusername, username) VALUES ("vtidmas0", "bkeitch8");
+INSERT INTO premiumbuddieswithothers (premusername, username) VALUES ("vtidmas0", "bmccorley9");
