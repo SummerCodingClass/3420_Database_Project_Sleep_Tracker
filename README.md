@@ -11,10 +11,10 @@ The UI will be implemented via php and javascript.
 
 ## Group Members
 
-Jennifer Kuo
-Jeff Hicks
-Jesse Arzate
-Salvador Vargas
+Jennifer Kuo.
+Jeff Hicks.
+Jesse Arzate.
+Salvador Vargas.
 
 
 ## Instructor
