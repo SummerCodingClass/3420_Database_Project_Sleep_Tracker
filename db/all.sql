@@ -3,12 +3,13 @@
 source codes/createTables.sql;
 source codes/triggers.sql;
 source codes/storedProcedures.sql;
+source codes/createViews.sql
 
 
-source workingsqls/create_client.sql;
-source workingsqls/create_log.sql;
-source workingsqls/create_premiumclient.sql;
-source workingsqls/create_premiumbuddieswithothers.sql;
+source workingsqls/insert_user.sql;
+source workingsqls/insert_log.sql;
+source workingsqls/insert_prem.sql;
+source workingsqls/insert_buddies.sql;
 
 
 

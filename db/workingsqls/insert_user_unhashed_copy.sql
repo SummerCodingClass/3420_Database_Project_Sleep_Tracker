@@ -1,0 +1,10 @@
+INSERT INTO user (uname, password) VALUES ("vtidmas0", "qe9uKx6JrZ");
+INSERT INTO user (uname, password) VALUES ("bkleingrub1", "w28jtOBlYcc");
+INSERT INTO user (uname, password) VALUES ("bsleford2", "Sjpk2vMZ6N");
+INSERT INTO user (uname, password) VALUES ("hfranciskiewicz3", "pAgFODt42");
+INSERT INTO user (uname, password) VALUES ("jcapelle4", "p8AiSP5tm3");
+INSERT INTO user (uname, password) VALUES ("ntatam5", "nHrelUoCxxt");
+INSERT INTO user (uname, password) VALUES ("nhillam6", "y6cBK5T8M");
+INSERT INTO user (uname, password) VALUES ("jpicot7", "MKZuyuT");
+INSERT INTO user (uname, password) VALUES ("bkeitch8", "vxKIyKQhbxC");
+INSERT INTO user (uname, password) VALUES ("bmccorley9", "jwui4B6AW");

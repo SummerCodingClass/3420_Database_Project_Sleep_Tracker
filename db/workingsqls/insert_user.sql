@@ -1,0 +1,10 @@
+INSERT INTO user (uname, password) VALUES ("vtidmas0", "$2y$10$Tx5RrNIZlWjuPKyZG9HPNe4vIXXFc6NUKVSG1skluOeYYNT6l6XYq");
+INSERT INTO user (uname, password) VALUES ("bkleingrub1", "$2y$10$NMpc2QkqfUPfFPJdGBIi6uVsZcfE9yVLeSjdQUarHg10VP68Td04K");
+INSERT INTO user (uname, password) VALUES ("bsleford2", "$2y$10$LGOxAh/Mugwz.GJZ2Okq4eT3Jd1rRYieKcob8D7N01LLHFiA6Z3T2");
+INSERT INTO user (uname, password) VALUES ("hfranciskiewicz3", "$2y$10$vL1ZE58XmsGByS7kOC2/nupahr5fjCOVNEf4pb3dVAtkWDyMKEMmW");
+INSERT INTO user (uname, password) VALUES ("jcapelle4", "$2y$10$2cfreXGOHFfPdGzskKZkcuK1kT5AVi5p47fCcmkVDmCTRJ9pLWkze");
+INSERT INTO user (uname, password) VALUES ("ntatam5", "$2y$10$2kVjdaAn2U4u5D/UxG1llukCAHz9sIULJ4SfSfYs0iJhdRcyiuST2");
+INSERT INTO user (uname, password) VALUES ("nhillam6", "$2y$10$c3lIrvQ1DBELRO3EvSzsh.8zD1snjcNZ3e9Ofgy7WHd.gtIT2nDGq");
+INSERT INTO user (uname, password) VALUES ("jpicot7", "$2y$10$BuOo8RGIlL1tg.YrxjKZvu/PWSfmPeOvL28M6WTBbhMXfVc8FZZJ6");
+INSERT INTO user (uname, password) VALUES ("bkeitch8", "$2y$10$RjACSzrDdy0M4jKUOeMJSuIE6DlK11CfFc7F3sM3res6ueS4rSiAq");
+INSERT INTO user (uname, password) VALUES ("bmccorley9", "$2y$10$eXjPPyfky20iN7ZGrKyKTOURrPA3X2Tzt0Hk2d7CNLsCbIsB4BZYm");
