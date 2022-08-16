@@ -27,7 +27,7 @@ Nick Toothman
 
 ## Instruction
 
-For the project to work, one must create a "config.php" file in the same directory as the rest of the php. It should contain the following function, with **a**, **b**, **c**, **d** replaced with your version of **server address**, **mysql username**, **mysql password**, and **database name** respectively. Note that the version pushed on to this github has purposely coded the wrong username and password, so it will not grant you access to our database even if you clone the project as is.
+For the project to work, one must create a "config.php" file in the same directory as the rest of the php. It should contain the following function, with **a**, **b**, **c**, **d** replaced with your version of **server address**, **mysql username**, **mysql password**, and **database name** respectively. Note that the version pushed on to this github has **purposely coded the wrong username and password**, so it will not grant you access to our database even if you clone the project as is.
 
 <pre>
 &lt;?php
